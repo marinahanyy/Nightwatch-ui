@@ -10,6 +10,10 @@ jobs:
       - run:
           name: Install Dependencies
           command: npm install
+         
+      
+      - run:
+          name: update chrome driver
           command: npm install chromedriver@latest --save-dev
           
       - run:
