@@ -16,4 +16,4 @@ Bug report
 Test cases report
 
 CircleCI badge
-[![CircleCI](https://circleci.com/gh/marinahanyy/Test-api.svg?style=svg)](https://circleci.com/gh/marinahanyy/Test-api)
+[![CircleCI](https://circleci.com/gh/marinahanyy/Nightwatch-ui.svg?style=svg)](https://circleci.com/gh/marinahanyy/Nightwatch-ui)
