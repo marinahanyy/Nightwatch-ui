@@ -10,6 +10,7 @@ jobs:
       - run:
           name: Install Dependencies
           command: npm install
+          command: npm install chromedriver@latest --save-dev
           
       - run:
           name: Run Nightwatch Tests
