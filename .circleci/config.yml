@@ -1,0 +1,16 @@
+version: 2.1
+
+jobs:
+  build:
+    docker:
+      - image: circleci/node:14-browsers  # This image includes Node.js and browsers (Chrome and Firefox)
+    steps:
+      - checkout
+
+      - run:
+          name: Install Dependencies
+          command: npm install
+
+      - run:
+          name: Run Nightwatch Tests
+          command: npm test  # Adjust this command based on your project setup
