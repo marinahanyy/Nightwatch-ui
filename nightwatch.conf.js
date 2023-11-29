@@ -17,7 +17,7 @@ module.exports = {
     default: {
       launch_url: 'https://nightwatchjs.org',
       desiredCapabilities : {
-        browserName : 'chrome',
+        browserName : 'firefox',
         language : 'english'
       }
     }
