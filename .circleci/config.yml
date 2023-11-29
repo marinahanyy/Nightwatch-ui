@@ -10,9 +10,7 @@ jobs:
       - run:
           name: Install Dependencies
           command: npm install
-      - run:
-          name: Update chrome driver
-          command: npm update chromedriver
+          
       - run:
           name: Run Nightwatch Tests
           command: npm test  # Adjust this command based on your project setup
