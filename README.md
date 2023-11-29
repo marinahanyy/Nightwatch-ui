@@ -17,3 +17,4 @@ Test cases report
 
 CircleCI badge
 [![CircleCI](https://circleci.com/gh/marinahanyy/Nightwatch-ui.svg?style=svg)](https://circleci.com/gh/marinahanyy/Nightwatch-ui)
+https://app.circleci.com/pipelines/circleci/94KpDmyAdGaGtWekDwcDHE/AMB5aTd3utfBB7QNEJXqG3
