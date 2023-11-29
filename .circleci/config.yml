@@ -3,7 +3,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: circleci/node:20.10-browsers  # This image includes Node.js and browsers (Chrome and Firefox)
+      - image: circleci/node:latest-browsers  # This image includes Node.js and browsers (Chrome and Firefox)
     steps:
       - checkout
 
