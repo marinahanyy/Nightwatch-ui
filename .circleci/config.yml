@@ -14,7 +14,7 @@ jobs:
       
       - run:
           name: update chrome driver
-          command: npm install chromedriver@96.0.4664.93
+          command: npm install chromedriver
           
       - run:
           name: Run Nightwatch Tests
